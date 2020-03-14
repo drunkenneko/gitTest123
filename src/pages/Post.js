@@ -10,4 +10,3 @@ const Post = ({location,match}) => {
 };
 
 export default Post;
-
